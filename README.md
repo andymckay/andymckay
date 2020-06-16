@@ -4,4 +4,4 @@ Runners for repository: [andymckay/test-self-hosted](https://github.com/andymcka
 
 |Runner|Online|
 |-|-|
-|whatever|:stop_sign:|
+|C02W81T5HV2R|:white_check_mark:||whatever|:stop_sign:|
