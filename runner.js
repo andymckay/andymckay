@@ -51,7 +51,7 @@ call(`/repos/andymckay/test-self-hosted/actions/runners`)
         if (runner.status == 'online') {
             status = ':white_check_mark:'
         }
-        text += `|${runner.name}|${status}|`
+        text += `|${runner.name}|${status}|\n`
     }
     fs.writeFileSync('README.md', text, {encoding:'utf8'})
 })
